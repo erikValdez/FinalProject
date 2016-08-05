@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">FinalProject</string>
+    <string name="entry">entry</string>
+    <string name="add">add</string>
+    <string name="delete">delete</string>
+    <string name="show">show</string>
+    <string name="enter_email_address">Enter Email Address</string>
+</resources>
